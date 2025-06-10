@@ -1,12 +1,12 @@
  /* ###################################### Estilo do Site para dispositivos de telas grande ############################################# */
-{
+*{
 margin: 0;
 padding: 0;
 }
 /* setup das variaveis*/
 :root {
 --verde-fundo: #deece7;
---branco-principal: #ffffff;
+--branco-principal: #020000;
 --fonte-principal: "Lustria";
 --verde-principal: #5fb13b;
 --azul-principal: #0169b4;
