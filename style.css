@@ -44,15 +44,15 @@ a:active {
 text-decoration: none;
 }
 
-/estilo dos containers genericos/
+/*estilo dos containers genericos*/
 .container {
 margin-top: 50px;
 display: flex;
 }
 
-/estilos do cabeçalho/
+/*estilos do cabeçalho*/
 .cabecalho {
-background-image: url("img/4.png");
+background-image: url("img/01.avif");
 }
 .img {
 width: 100%;
